@@ -1,5 +1,6 @@
 
 ### Olá, me chamo Douglas Pereira🖐️. Sou estudante de Desenvolvimento Web Fullstack. Tenho mais aptidão pelo FRONT END, porém gosto de aprender de tudo um pouco.
+### Vejo a programação como ótima ferramenta para o avanço da sociedade. O que me atrai na área, é ter a possibilidade de criar algo novo e totalmente útil, ou então, melhorar o que já existe.
 ### Pronomes: Ele/Dele.
 
 
@@ -19,7 +20,7 @@
   ##
  
 <div> 
-  <div>
+ 
     
 ### Onde me encontrar👇
   <a href = "mailto:douglaswebdev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
