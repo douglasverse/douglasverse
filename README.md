@@ -3,11 +3,15 @@
 ### Vejo a programação como ótima ferramenta para o avanço da sociedade. O que me atrai na área, é ter a possibilidade de criar algo novo e totalmente útil, ou então, melhorar o que já existe.
 ### Pronomes: Ele/Dele.
 
-
+<div align="center">
+  <a href="https://github.com/douglasverse">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasverse&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasverse&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   ##
  
-<div> 
+
  
     
 ### Onde me encontrar👇
