@@ -1,6 +1,6 @@
 
-### Olá, me chamo Douglas Pereira🖐️. Sou estudante de Desenvolvimento Web Fullstack. Tenho mais aptidão pelo FRONT END, porém gosto de aprender de tudo um pouco.
-### Vejo a programação como ótima ferramenta para o avanço da sociedade. O que me atrai na área, é ter a possibilidade de criar algo novo e totalmente útil, ou então, melhorar o que já existe.
+### Olá, me chamo Douglas Pereira🖐️. Sou estudante de Desenvolvimento Web - Front End.
+### Vejo a programação como uma ótima ferramenta para o avanço da sociedade. O que me atrai na área, é ter a possibilidade de criar algo novo e totalmente útil, ou então, melhorar o que já existe.
 ### Pronomes: Ele/Dele.
 
 <div align="center">
